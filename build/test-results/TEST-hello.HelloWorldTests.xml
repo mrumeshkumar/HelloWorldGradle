@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.HelloWorldTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-14T07:44:37" hostname="DESKTOP-H4JOI55" time="0.075">
+  <properties/>
+  <testcase name="shouldPrintTimeToConsole" classname="hello.HelloWorldTests" time="0.074"/>
+  <testcase name="shouldPrintHelloWorldToConsole" classname="hello.HelloWorldTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
